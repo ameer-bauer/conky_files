@@ -42,6 +42,7 @@ conky.config = {
     own_window_type = 'normal',
     own_window_hints = 'below,undecorated,skip_taskbar,skip_pager,sticky',
     own_window_transparent = true,
+    own_window_argb_visual = true,
     show_graph_range = false,
     show_graph_scale = false,
     stippled_borders = 0,
